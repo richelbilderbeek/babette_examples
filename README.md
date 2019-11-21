@@ -1,6 +1,6 @@
 # babette_examples
 
-Examples how to use the babette R package
+Examples how to use [the babette R package](https://github.com/ropensci/babette).
 
 For all examples, do load `babette`:
 
@@ -76,4 +76,12 @@ Thanks to Yacine Ben Chehida for this use case
 See [babette example 8: Strict clock with a known clock rate](https://github.com/richelbilderbeek/babette_example_8)
 
 Thanks to Paul van Els and Yacine Ben Chehida for this use case.
+
+## Example #9: sample from prior
+
+```
+Picture needed here
+```
+
+See [babette example 9: sample from prior](https://github.com/richelbilderbeek/babette_example_9)
 
