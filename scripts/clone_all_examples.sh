@@ -4,12 +4,12 @@
 #
 # Usage:
 #
-#   ./pirouette_examples/scripts/clone_all_examples.sh
+#   ./babette_examples/scripts/clone_all_examples.sh
 #
 
-for i in $(seq 1 46)
+for i in $(seq 1 10)
 do
-  url="https://github.com/richelbilderbeek/pirouette_example_$i"
+  url="https://github.com/richelbilderbeek/babette_example_$i"
   git clone $url
 done
 
