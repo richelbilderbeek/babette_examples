@@ -14,7 +14,7 @@ do
 
   echo "git folder: "$folder
   git add --all :/
-  git commit -m "Fix rJava error, from https://travis-ci.community/t/cannot-connect-to-java-from-r/9754/8"
+  git commit -m "Import testthat"
   git pull
   git push
 

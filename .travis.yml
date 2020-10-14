@@ -1,0 +1,11 @@
+script:
+  - ./scripts/clone_all_examples.sh
+
+after_failure:
+  # Download thesis
+  - wget https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf
+
+after_success:
+  # Download thesis
+  - wget https://www.rug.nl/research/portal/files/132028374/Complete_thesis.pdf
+
