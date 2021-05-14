@@ -85,6 +85,10 @@ Picture needed here
 
 See [babette example 9: sample from prior](https://github.com/richelbilderbeek/babette_example_9)
 
+## Example #10: continue a run
+
+ * Video: [YouTube](https://youtu.be/aQ09_cpXFHY) [download (.ogv)](http://richelbilderbeek.nl/bbt_continue.ogv)
+
 ## Build statuses of examples
 
 Example                                                   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
@@ -98,4 +102,7 @@ Example                                                   |[![Travis CI logo](pi
 [7](https://github.com/richelbilderbeek/babette_example_7)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_7.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_7)
 [8](https://github.com/richelbilderbeek/babette_example_8)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_8.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_8)
 [9](https://github.com/richelbilderbeek/babette_example_9)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_9.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_9)
+
+
+
 
