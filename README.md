@@ -91,17 +91,17 @@ See [babette example 9: sample from prior](https://github.com/richelbilderbeek/b
 
 ## Build statuses of examples
 
-Example                                                   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+Example                                                   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.com)
 ----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------
-[1](https://github.com/richelbilderbeek/babette_example_1)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_1)
-[2](https://github.com/richelbilderbeek/babette_example_2)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_2)
-[3](https://github.com/richelbilderbeek/babette_example_3)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_3)
-[4](https://github.com/richelbilderbeek/babette_example_4)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_4.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_4)
-[5](https://github.com/richelbilderbeek/babette_example_5)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_5.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_5)
-[6](https://github.com/richelbilderbeek/babette_example_6)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_6.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_6)
-[7](https://github.com/richelbilderbeek/babette_example_7)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_7.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_7)
-[8](https://github.com/richelbilderbeek/babette_example_8)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_8.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_8)
-[9](https://github.com/richelbilderbeek/babette_example_9)|[![Build Status](https://travis-ci.org/richelbilderbeek/babette_example_9.svg?branch=master)](https://travis-ci.org/richelbilderbeek/babette_example_9)
+[1](https://github.com/richelbilderbeek/babette_example_1)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_1.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_1)
+[2](https://github.com/richelbilderbeek/babette_example_2)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_2.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_2)
+[3](https://github.com/richelbilderbeek/babette_example_3)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_3.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_3)
+[4](https://github.com/richelbilderbeek/babette_example_4)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_4.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_4)
+[5](https://github.com/richelbilderbeek/babette_example_5)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_5.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_5)
+[6](https://github.com/richelbilderbeek/babette_example_6)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_6.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_6)
+[7](https://github.com/richelbilderbeek/babette_example_7)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_7.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_7)
+[8](https://github.com/richelbilderbeek/babette_example_8)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_8.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_8)
+[9](https://github.com/richelbilderbeek/babette_example_9)|[![Build Status](https://travis-ci.com/richelbilderbeek/babette_example_9.svg?branch=master)](https://travis-ci.com/richelbilderbeek/babette_example_9)
 
 
 
